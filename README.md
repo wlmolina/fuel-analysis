@@ -2,5 +2,5 @@
 Fuel analysis performed between gasoline and E85 fuel to determine average difference in MPG, annual fuel cost, and emissions in Flex Fuel Vehicle.
 
 Files included:
-1. <a href="https://github.com/wlmolina/wmolina-HR-Model/blob/master/HR_compensation_strategy.xlsx">HR_compensation_strategy.xlsx</a>
-2. <a href="https://github.com/wlmolina/wmolina-HR-Model/blob/master/Presentation-HR_MODEL.pptx">Presentation-HR_Model.pptx<a/>
+1. <a href="https://github.com/wlmolina/wmolina-fuel-analysis/blob/master/epa-fuel-economy.xlsx">EPA Fuel Data Analysis</a>
+2. <a href="https://github.com/wlmolina/wmolina-fuel-analysis/blob/master/EPA-fuel-ecomony%20Capstone.pptx">Presentation-EPA Fuel Data Analysis<a/>
